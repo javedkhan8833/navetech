@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background-color: #f5f;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight:bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+}
+h3{
+    color:tomato;
+}
+.divrgb{
+    background-color:rgba(158, 75, 75,0.4);
+}
+/* body{background-image: url("noble guards services.png");} */
+body{
+    background-image: url("IMG_5678.JPG");
+    /* background-image: url("bgdesert.jpg"); */
+    background-repeat:no-repeat;
+    /* background-position:left top; */
+    background-position:left bottom;
+    background-attachment: fixed;
+    
+}
